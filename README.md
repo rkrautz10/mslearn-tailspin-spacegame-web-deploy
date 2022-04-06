@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/krautz007-1/Space%20Game%20-%20web%20-%20Deployment%20patterns/_apis/build/status/mslearn-tailspin-spacegame-web-deploy?branchName=blue-green)](https://dev.azure.com/krautz007-1/Space%20Game%20-%20web%20-%20Deployment%20patterns/_build/latest?definitionId=11&branchName=blue-green)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
